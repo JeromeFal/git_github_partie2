@@ -7,5 +7,5 @@ Préparation CV
 
 L'idée est de rédiger les différentes parties de mon cv,
 les soumettre à d'autres pour relecture et modifications
-afin d'arriver à une écriture pertinent et efficace des contenus.
+afin d'arriver à une écriture pertinente et efficace des contenus.
 
