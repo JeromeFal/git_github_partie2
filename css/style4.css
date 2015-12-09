@@ -1,0 +1,57 @@
+body
+{
+	font-family: Arial, sans-serif;
+	background-image:url("../images/jf_mini.png");
+	background-position: top right;
+	background-repeat: no-repeat;
+	background-color: #e2e999;
+}
+
+#liseret
+{
+	width: 3%;
+	margin-right: 10px;
+	height: 650px;
+	background-color: black;
+	border-radius: 5px;
+	float: left;
+}
+
+@media only screen and (max-width: 1024px)
+{
+	#liseret
+	{
+		display: none;	
+	}
+}
+
+header h1, h2
+{
+	background-color: rgba(0,0,0,0.6);
+	color: white;
+	text-align: center;
+}
+
+header h2
+{
+	font-size:0.9em;
+}
+
+#photo
+{
+	position: relative;
+	margin-right: 0px;
+}
+
+section
+{
+	width: 30%;
+	height: 552px;
+	overflow: auto;
+	display: inline-block;
+	margin-top: 10px;
+	vertical-align: top;
+	border: 1px solid #bed001;
+	border-radius: 0px 0px 15px 15px;
+	background-color: white;
+}
